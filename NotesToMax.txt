@@ -1,0 +1,2 @@
+Use 'bundle exec jekyll serve -l -H localhost' to host website locally
+_includes/archive-single.html to modify how publications appear
