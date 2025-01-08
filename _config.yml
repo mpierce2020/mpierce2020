@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Doctoral candidate in mechanical engineering"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "Massachusetts Institute<br> of Technology"
   uri              : # URL
   email            : "mp2020@mit.edu" 
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : max-pierce-775a56142
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Presentations'
   theses:
     title: 'Academic Theses'
 
@@ -275,15 +275,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:

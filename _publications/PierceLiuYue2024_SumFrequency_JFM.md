@@ -2,7 +2,6 @@
 title: "Sum-frequency triad interactions among surface waves propagating through an ice sheet"
 collection: publications
 category: manuscripts
-permalink: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sumfrequency-triad-interactions-among-surface-waves-propagating-through-an-ice-sheet/B38A4BAC7D0C2AD7418E70A55DF3CB20
 excerpt: ''
 date: 2024-02-06
 venue: 'Journal of Fluid Mechanics'

@@ -1,11 +1,9 @@
 ---
 title: "Triad interactions among surface waves propagating through an ice sheet"
 collection: publications
-category: theses
-permalink: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sumfrequency-triad-interactions-among-surface-waves-propagating-through-an-ice-sheet/B38A4BAC7D0C2AD7418E70A55DF3CB20
+category: conferences
 excerpt: ''
-paperurl: 'https://dspace.mit.edu/handle/1721.1/152697?show=full'
 date: 2023-11-02
-citation: "<strong>Master's Thesis:</strong> M. W. Pierce. 2023. &quot;Triad interactions among surface waves propagating through an ice sheet.&quot Massachusetts Institute of Technology, Cambridge, MA. doi: 1721.1/152697"
+citation: "M. W. Pierce, Y. Liu and D. K. P. Yue. November 2023. Amplification of maximum ice bending strain and reduction of wave energy transmission due to sum-frequency triad wave interactions in a finite-length ice sheet. Presented at the 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington, D.C."
 ---
 We study nonlinear resonant wave-wave interactions which occur when ocean waves propagate into a thin floating ice sheet. Using perturbation analysis, we obtain theoretical predictions of the wave amplitude evolution as a function of distance travelled past the ice edge for a semi-infinite ice sheet. The theoretical predictions are supported by a high-order spectral (HOS) method capable of simulating nonlinear interactions in both open water and the ice sheet. Using HOS, the amplitude evolution predictions are extended to a single ice sheet of finite length. We relate the amplitude evolution to mechanisms with strong wavenumber dependence -- ice bending strain, related to ice breakup, as well as wave reflection and transmission. We show that, due to sum-frequency interactions, the maximum strain in the ice sheet can be more than twice that predicted by linearised theory. For ice sheet of finite length, we show that nonlinear wave reflection and transmission coefficients depend on wave steepness and can have values significantly different than those from linear theory. In general, the ice sheet acts as a low-pass filter, and we find that nonlinear sum (difference)-frequency interactions can appreciably decrease (increase) the total wave energy transmitted. This work has implications in understanding wave attenuation due to scattering in the marginal ice zone, occurrence of ice breakup and the resulting ice floe size distribution.
