@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ========== Publication Thumbnails ========== */
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.pub-text {
+  flex: 1;
+}
+
+.pub-image img {
+  width: 120px;
+  height: auto;
+  border: 1px solid #ddd;
+}
+
+/* Mobile-friendly: stack text above image */
+@media (max-width: 600px) {
+  .pub-item {
+    flex-direction: column;
+  }
+
+  .pub-image img {
+    max-width: 300px;
+  }
+}
