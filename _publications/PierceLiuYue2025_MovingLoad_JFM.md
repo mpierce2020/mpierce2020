@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-03-17
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/features-of-doublefrequency-triad-interactions-in-the-nonlinear-response-to-a-moving-load-on-a-floating-ice-sheet/35914501D16239966A0C4ECE79BE174E#article'
-citation: 'M. W. Pierce, Y. Liu, and D. K. P. Yue. &quot;Features of double-frequency triad interactions in the nonlinear response to a moving load on a floating ice sheet,&quot <i>Journal of Fluid Mechanics</i>, vol. 1007, p. A50, 2025.'
+citation: '<b>M. W. Pierce</b>, Y. Liu, and D. K. P. Yue. &quot;Features of double-frequency triad interactions in the nonlinear response to a moving load on a floating ice sheet,&quot <i>Journal of Fluid Mechanics</i>, vol. 1007, p. A50, 2025.'
 doi: 'doi:10.1017/jfm.2025.89'
 ---
 
