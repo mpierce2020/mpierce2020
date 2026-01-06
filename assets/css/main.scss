@@ -43,7 +43,7 @@
 /* ========== Publication Thumbnails ========== */
 .pub-item {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 1rem;
   margin-bottom: 1.5rem;
 }
@@ -53,7 +53,7 @@
 }
 
 .pub-image img {
-  width: 120px;
+  width: 240px;
   height: auto;
   border: 1px solid #ddd;
 }
