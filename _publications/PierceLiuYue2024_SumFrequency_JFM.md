@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-02-06
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sumfrequency-triad-interactions-among-surface-waves-propagating-through-an-ice-sheet/B38A4BAC7D0C2AD7418E70A55DF3CB20'
-citation: 'M. W. Pierce, Y. Liu, and D. K. P. Yue. &quot;Sum-frequency triad interactions among surface waves propagating through an ice sheet,&quot <i>Journal of Fluid Mechanics</i>, vol. 980, p. A45, 2024.'
+citation: '<b>M. W. Pierce</b>, Y. Liu, and D. K. P. Yue. &quot;Sum-frequency triad interactions among surface waves propagating through an ice sheet,&quot <i>Journal of Fluid Mechanics</i>, vol. 980, p. A45, 2024.'
 doi: 'doi:10.1017/jfm.2024.44'
 ---
 
