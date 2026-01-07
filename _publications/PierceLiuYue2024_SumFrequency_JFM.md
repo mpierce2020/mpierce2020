@@ -1,7 +1,6 @@
 ---
 title: "Sum-frequency triad interactions among surface waves propagating through an ice sheet"
 collection: publications
-classes: wide
 category: manuscripts
 excerpt: ''
 date: 2024-02-06
